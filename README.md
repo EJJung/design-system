@@ -1,4 +1,4 @@
-# Denali CSS Library
+# Denali CSS Library - forked from Denali team
 
 [![npm](https://img.shields.io/npm/v/denali-css?color=red)](https://www.npmjs.com/package/denali-css)
 [![Build Status][status-image]][status-url]
